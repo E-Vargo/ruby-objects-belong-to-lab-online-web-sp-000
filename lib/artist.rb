@@ -6,7 +6,7 @@ class Artist
   end
 
   def name
-    name
+    @name
   end
 
 end
