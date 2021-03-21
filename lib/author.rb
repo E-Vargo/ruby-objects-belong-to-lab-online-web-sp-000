@@ -9,5 +9,4 @@ class Author
     @name
   end
 
-
 end
